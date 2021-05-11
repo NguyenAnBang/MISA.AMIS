@@ -1,0 +1,30 @@
+1. UI
+axios getAll, getbyID(sửa), Post(validate), Put, Delete, getPaging (Làm paginantion), getfilter(searchbar), get mã khách hàng lớn nhất trong database, export dữ liệu ra file excel
+
+validate (Không trùng dữ liệu, không trống dữ liệu -> thông báo, email, số điện thoại đúng định dạng, autofocus, autocomplete combobox)
+
+loading spinner, autocomplete combobox
+2.API
+getall, getbyid, post(validate-service), put, delete, getPaging, getFilter, getExport, getMaxCustomerCode
+
+Kết nối dữ liệu đến database
+
+Validate: Check trống, check duplicate, check email, số điện thoại đúng dịnh dạng -> trả về mã
+
+3.database
+
+
+procedure, , Insert, Update, Delete, getPaging, getFilter, GetMaxCustomerCode
+
+
+chức năng ui
+
+checkbox checkall
+loading page trước khi load thành công
+pop-up thông báo khi thêm/sửa/xóa thành công
+
+Validate form sử dụng bàn phím 
+autocomplete combobox
+
+Sửa lại UI của pagination
+responsive table
